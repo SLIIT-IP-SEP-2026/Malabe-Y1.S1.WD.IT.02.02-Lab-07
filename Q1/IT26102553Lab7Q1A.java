@@ -34,7 +34,5 @@ public class Lab7Q1A {
         else {
             System.out.println("Grade: Fail");
         }
-
-        input.close();
     }
 }
